@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-You can check it from [https:///kckchat.netlify.app](https://kckchat.netlify.app/)
+You can check it from [chat-appp](https://kckchat.netlify.app/)
 
 ![gorsel1](/public/Screenshot_1.png)
 ![gorsel2](/public/Screenshot_2.png)
