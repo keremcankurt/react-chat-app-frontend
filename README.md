@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
-You can check it from https://[kckforum.netlify.app/](https://kckchat.netlify.app/)
+You can check it from https:///kckchat.netlify.app
 
-![gorsel1](/Screenshot_1.png)
-![gorsel2](/Screenshot_2.png)
+![gorsel1](/public/Screenshot_1.png)
+![gorsel2](/public/Screenshot_2.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
